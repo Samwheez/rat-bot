@@ -1,0 +1,421 @@
+{
+	"Mouse": [{
+		"name":"Street Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name":"Gutter Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Field Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Zap Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Wrap Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Cat Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Dog Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Bald Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	}],
+	"Rat": [{
+		"name": "Lab Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Rat Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Fat Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Hat Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Rap Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Plague Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	}],
+	"Dire Rat": [{
+		"name": "Wahoo Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Twitch Chat Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Chad Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Sus Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Frog Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Crab Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Pog Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "King Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Creature Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Cheeki Breeki Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Renaissance Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	}],
+	"Enlightened Rat": [{
+		"name" : "The Giant Rat Who Makes All of the Rules",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Bad Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0,
+		"image": ""
+	},{
+		"name": "Squirtle Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Boldee Head Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Brain Worm Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "SMTC Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Doge Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Seagull Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Wikipedia Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Bruh Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Change Da World Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Genius Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	}],
+	"Ratlantean": [{
+		"name": "Joker Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Banjo Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Minecraft Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Link Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Zelda Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Walter Rat",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Twitch",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Ratatouille",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	},{
+		"name": "Rat Friend National Geographic",
+		"attack": 0,
+		"defense": 0,
+		"health": 0,
+		"attackgrowth": 0,
+		"defensegrowth": 0,
+		"healthgrowth": 0, 
+		"image": ""
+	}]
+}
