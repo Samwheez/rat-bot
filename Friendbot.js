@@ -463,9 +463,6 @@ client.on("message", function(message){
 		message.reply('Crashma bot! Goodbye.')
 		.then(() => client.destroy())
 	}
-	if (command === "event"){
-		message.channel.send(" ", {files: ["https://cdn.discordapp.com/attachments/670132835893641216/762855897332187197/chimp_time.mp4"]});
-	}
 	if (command === 'whomadeyou'){
 		message.channel.send("I was made by Sam/Ern\'t The Nern\'t!");
 	}
